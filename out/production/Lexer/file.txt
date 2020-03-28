@@ -1,0 +1,10 @@
+@12312A
+write+//*asdasdasd
+asdasdasd
+nen
+*/
+error
+int+double
+"lol"
+error2
+exit
